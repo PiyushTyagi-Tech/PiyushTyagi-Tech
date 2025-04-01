@@ -15,7 +15,7 @@ With 2+ years of experience as a **DevOps Engineer**  and hands-on expertise in 
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/piyushtyagi8085) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Piyushtyagi8085@gmail.com) >
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/piyushtyagi8085) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Piyushtyagi8085@gmail.com) 
 
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=piyushtyagi-Tech&theme=dark&hide_border=false)<br/>
