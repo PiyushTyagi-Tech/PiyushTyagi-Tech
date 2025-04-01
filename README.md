@@ -1,4 +1,4 @@
-<!--
+
 **PiyushTyagi-Tech/PiyushTyagi-Tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # 💫 About Me:
 With 2+ years of experience as a DevOps Engineer  and hands-on expertise in Kubernetes, Docker, Terraform, GitHub Actions, GitLab CI/CD , AWS & GCP.<br>I'm a recent graduate (open to work) with Postgraduate degree in DevOps for Cloud Computing from Lambton College, Toronto.  I am on the lookout for roles like DevOps Engineer, Cloud Infrastructure Engineer, Site Reliability Engineer. <br><br>I'm passionate ❤️ about learning  interesting technologies ✨<br><br>Technical Skillset-- <br><br>Cloud Provider: AWS, GCP & Azure                        <br>Continuous Integration Tool: Jenkins, AWS CodePipeline, GitLab CI, Github Actions<br>Version Control: Git, GitHub, GitLab<br>Infrastructure as code (IaC): Terraform, Cloud formation<br>Containerization Technology: Docker & Kubernetes <br>Monitoring Tools: Datadog, CloudWatch <br>Databases: MySQL, MongoDB<br>Languages: Python, Bash, <br>Operating Tools:Linux, Windows
